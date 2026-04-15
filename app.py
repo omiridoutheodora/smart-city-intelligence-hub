@@ -498,22 +498,25 @@ with tab1:
 
     ds = sf.groupby(["date", "district"]).agg(avg_value=("value", "mean")).reset_index().sort_values(["district", "date"])
     ds["rolling_avg"] = ds.groupby("district")["avg_value"].transform(lambda x: x.rolling(7, min_periods=1).mean())
- st.markdown(
+st.markdown(
     '<p class="insight-caption"><strong>7-day rolling trend highlighting sustained sensor patterns across zones</strong></p>',
     unsafe_allow_html=True,
 )
-    fig3 = px.line(
-        ds,
-        x="date",
-        y="rolling_avg",
-        color="district",
-        title=f"{sensor_type.replace('_', ' ').title()} — 7-Day Rolling Trend by Zone",
-        color_discrete_map=DISTRICT_COLORS,
-    )
-    fig3.update_traces(line=dict(width=1.7), opacity=0.8)
-    fig3.update_layout(yaxis_title="7-day rolling average", xaxis_title="Date")
-    style_figure(fig3)
-    st.plotly_chart(fig3, use_container_width=True)
+
+fig3 = px.line(
+    ds,
+    x="date",
+    y="rolling_avg",
+    color="district",
+    title=f"{sensor_type.replace('_', ' ').title()} — 7-Day Rolling Trend by Zone",
+    color_discrete_map=DISTRICT_COLORS,
+)
+
+fig3.update_traces(line=dict(width=1.7), opacity=0.8)
+fig3.update_layout(yaxis_title="7-day rolling average", xaxis_title="Date")
+
+style_figure(fig3)
+st.plotly_chart(fig3, use_container_width=True)
 
 with tab2:
     e1, e2 = st.columns(2)
