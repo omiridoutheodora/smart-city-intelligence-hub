@@ -1,4 +1,4 @@
-# 🏙️ Smart City Intelligence Hub
+# Smart City Intelligence Hub
 
 A Streamlit dashboard demonstrating the evolution of Business Intelligence from static reporting to AI-driven urban intelligence. Built as a companion piece to the report: *The Dashboard Is Dead: How AI Is Reshaping BI for Smart Cities*.
 
