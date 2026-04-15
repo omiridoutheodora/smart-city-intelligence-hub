@@ -12,7 +12,7 @@ import streamlit as st
 st.set_page_config(
     page_title="Smart City Intelligence Hub",
     page_icon="🏙️",
-    layout="centred",
+    layout="centered",
     initial_sidebar_state="expanded",
 )
 
