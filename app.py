@@ -498,10 +498,10 @@ with tab1:
 
     ds = sf.groupby(["date", "district"]).agg(avg_value=("value", "mean")).reset_index().sort_values(["district", "date"])
     ds["rolling_avg"] = ds.groupby("district")["avg_value"].transform(lambda x: x.rolling(7, min_periods=1).mean())
-    st.markdown(
-        '<p class="insight-caption">This bottom visual is now a <strong>7-day rolling trend</strong>, so it shows sustained movement in sensor behaviour instead of noisy day-to-day fluctuations.</p>',
-        unsafe_allow_html=True,
-    )
+ st.markdown(
+    '<p class="insight-caption"><strong>7-day rolling trend highlighting sustained sensor patterns across zones</strong></p>',
+    unsafe_allow_html=True,
+)
     fig3 = px.line(
         ds,
         x="date",
