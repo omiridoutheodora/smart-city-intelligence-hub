@@ -1,0 +1,862 @@
+timestamp,district,category,severity,message,action_taken,requires_human_review
+2025-01-01 07:31,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 41% week-over-week. Sentiment trending negative.,True,False
+2025-01-01 19:09,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 38 units offline. Maintenance crew dispatched.,True,False
+2025-01-02 07:30,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 79% versus forecast. Investigate enforcement.,True,False
+2025-01-03 09:03,Eastfield,environment,critical,Air quality index in Eastfield reached 83 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-01-03 10:08,Central,energy,high,EV charging demand in Central surged 33% above baseline. Recommend load balancing.,True,False
+2025-01-05 13:23,Central,environment,critical,Air quality index in Central reached 62 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-01-05 08:08,Riverside,noise,medium,Noise levels in Riverside exceeded 64 dB for 3 consecutive hours. Investigate source.,True,False
+2025-01-06 07:50,Central,waste,medium,Waste collection delay in Central. 33 bins at capacity. Route optimisation triggered.,False,False
+2025-01-06 15:26,Northgate,environment,critical,Air quality index in Northgate reached 18 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-01-07 15:27,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 15 units offline. Maintenance crew dispatched.,True,False
+2025-01-07 18:11,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 21%. Recommend dynamic pricing increase.,False,True
+2025-01-07 06:21,Eastfield,noise,medium,Noise levels in Eastfield exceeded 21 dB for 3 consecutive hours. Investigate source.,True,False
+2025-01-08 11:40,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 20% week-over-week. Sentiment trending negative.,True,False
+2025-01-08 11:08,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 64°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-09 12:46,Harbour,waste,medium,Waste collection delay in Harbour. 58 bins at capacity. Route optimisation triggered.,True,False
+2025-01-09 07:04,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 88%. Recommend dynamic pricing increase.,True,False
+2025-01-10 19:27,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 63°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-10 19:10,Northgate,noise,medium,Noise levels in Northgate exceeded 27 dB for 3 consecutive hours. Investigate source.,True,False
+2025-01-11 12:53,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 87°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-12 17:30,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 68% above prediction. Signal timing adjusted automatically.,True,False
+2025-01-12 13:43,Central,energy,high,EV charging demand in Central surged 37% above baseline. Recommend load balancing.,True,False
+2025-01-12 08:28,Riverside,energy,high,EV charging demand in Riverside surged 36% above baseline. Recommend load balancing.,False,True
+2025-01-12 11:10,Central,noise,medium,Noise levels in Central exceeded 81 dB for 3 consecutive hours. Investigate source.,True,False
+2025-01-13 20:48,Northgate,noise,medium,Noise levels in Northgate exceeded 64 dB for 3 consecutive hours. Investigate source.,True,False
+2025-01-13 12:27,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 57 units offline. Maintenance crew dispatched.,True,False
+2025-01-13 06:05,Central,energy,high,EV charging demand in Central surged 53% above baseline. Recommend load balancing.,False,True
+2025-01-14 15:35,Central,energy,high,EV charging demand in Central surged 67% above baseline. Recommend load balancing.,True,False
+2025-01-14 20:35,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 70 units offline. Maintenance crew dispatched.,True,False
+2025-01-14 08:06,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 46°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-15 14:01,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 88% versus forecast. Investigate enforcement.,True,False
+2025-01-15 16:54,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 26°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-15 18:44,Greenpark,environment,critical,Air quality index in Greenpark reached 66 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-01-15 06:12,Central,environment,critical,Air quality index in Central reached 72 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-01-16 13:39,Northgate,waste,medium,Waste collection delay in Northgate. 19 bins at capacity. Route optimisation triggered.,False,False
+2025-01-16 14:13,Riverside,traffic,low,Traffic flow anomaly in Riverside. Volume 64% above prediction. Signal timing adjusted automatically.,True,False
+2025-01-16 14:26,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 79 units offline. Maintenance crew dispatched.,True,False
+2025-01-17 06:58,Eastfield,energy,high,EV charging demand in Eastfield surged 55% above baseline. Recommend load balancing.,True,False
+2025-01-17 21:10,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 44% week-over-week. Sentiment trending negative.,False,True
+2025-01-17 14:36,Riverside,climate,medium,Temperature forecast: Riverside expecting 70°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-01-18 13:55,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 37% above prediction. Signal timing adjusted automatically.,False,False
+2025-01-18 20:52,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 23°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-19 19:11,Riverside,waste,medium,Waste collection delay in Riverside. 79 bins at capacity. Route optimisation triggered.,True,False
+2025-01-20 16:02,Central,traffic,low,Traffic flow anomaly in Central. Volume 67% above prediction. Signal timing adjusted automatically.,True,False
+2025-01-21 13:24,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 82%. Recommend dynamic pricing increase.,True,False
+2025-01-21 06:07,Greenpark,waste,medium,Waste collection delay in Greenpark. 87 bins at capacity. Route optimisation triggered.,False,False
+2025-01-22 07:28,Riverside,environment,critical,Air quality index in Riverside reached 45 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-01-22 19:57,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 63% versus forecast. Investigate enforcement.,True,False
+2025-01-22 08:39,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 20°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-01-23 20:15,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 48% above prediction. Signal timing adjusted automatically.,True,False
+2025-01-23 17:58,Central,noise,medium,Noise levels in Central exceeded 18 dB for 3 consecutive hours. Investigate source.,False,False
+2025-01-24 06:42,Harbour,waste,medium,Waste collection delay in Harbour. 32 bins at capacity. Route optimisation triggered.,True,False
+2025-01-24 12:08,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 69%. Recommend dynamic pricing increase.,False,True
+2025-01-24 18:57,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 66%. Recommend dynamic pricing increase.,True,False
+2025-01-25 19:50,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 62% above prediction. Signal timing adjusted automatically.,True,False
+2025-01-25 10:15,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 24 units offline. Maintenance crew dispatched.,True,False
+2025-01-25 14:29,Riverside,waste,medium,Waste collection delay in Riverside. 82 bins at capacity. Route optimisation triggered.,True,False
+2025-01-26 11:04,Northgate,energy,high,EV charging demand in Northgate surged 37% above baseline. Recommend load balancing.,False,True
+2025-01-26 15:07,Riverside,waste,medium,Waste collection delay in Riverside. 25 bins at capacity. Route optimisation triggered.,True,False
+2025-01-26 14:12,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 19%. Recommend dynamic pricing increase.,False,True
+2025-01-28 19:23,Central,environment,critical,Air quality index in Central reached 83 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-01-29 12:54,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 73% week-over-week. Sentiment trending negative.,False,True
+2025-01-29 17:01,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 62% week-over-week. Sentiment trending negative.,False,True
+2025-01-31 14:26,Riverside,noise,medium,Noise levels in Riverside exceeded 91 dB for 3 consecutive hours. Investigate source.,True,False
+2025-01-31 10:32,Central,parking,high,Parking demand spike detected in Central. Occupancy at 68%. Recommend dynamic pricing increase.,False,True
+2025-02-01 08:56,Greenpark,waste,medium,Waste collection delay in Greenpark. 86 bins at capacity. Route optimisation triggered.,True,False
+2025-02-01 08:01,Greenpark,energy,high,EV charging demand in Greenpark surged 33% above baseline. Recommend load balancing.,True,False
+2025-02-02 16:06,Greenpark,waste,medium,Waste collection delay in Greenpark. 38 bins at capacity. Route optimisation triggered.,True,False
+2025-02-04 19:32,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 32%. Recommend dynamic pricing increase.,False,True
+2025-02-04 07:02,Central,citizen_services,high,Citizen complaint volume in Central up 82% week-over-week. Sentiment trending negative.,True,False
+2025-02-05 15:42,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 67% above prediction. Signal timing adjusted automatically.,False,False
+2025-02-05 19:16,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 78% versus forecast. Investigate enforcement.,True,False
+2025-02-06 09:41,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 90 units offline. Maintenance crew dispatched.,False,False
+2025-02-06 08:40,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 35% week-over-week. Sentiment trending negative.,True,False
+2025-02-07 14:27,Riverside,climate,medium,Temperature forecast: Riverside expecting 33°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-02-08 08:08,Harbour,energy,high,EV charging demand in Harbour surged 75% above baseline. Recommend load balancing.,True,False
+2025-02-08 16:35,Central,waste,medium,Waste collection delay in Central. 62 bins at capacity. Route optimisation triggered.,True,False
+2025-02-08 12:41,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 85%. Recommend dynamic pricing increase.,False,True
+2025-02-09 21:26,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 31 units offline. Maintenance crew dispatched.,True,False
+2025-02-09 21:43,Central,energy,high,EV charging demand in Central surged 21% above baseline. Recommend load balancing.,True,False
+2025-02-09 09:40,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 83% above prediction. Signal timing adjusted automatically.,False,False
+2025-02-10 10:16,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 86% above prediction. Signal timing adjusted automatically.,True,False
+2025-02-10 07:37,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 82%. Recommend dynamic pricing increase.,False,True
+2025-02-11 09:29,Riverside,traffic,low,Traffic flow anomaly in Riverside. Volume 50% above prediction. Signal timing adjusted automatically.,True,False
+2025-02-12 17:11,Northgate,climate,medium,Temperature forecast: Northgate expecting 90°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-02-12 09:43,Harbour,climate,medium,Temperature forecast: Harbour expecting 82°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-02-12 10:29,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 25 units offline. Maintenance crew dispatched.,True,False
+2025-02-13 19:55,Riverside,noise,medium,Noise levels in Riverside exceeded 39 dB for 3 consecutive hours. Investigate source.,True,False
+2025-02-14 17:09,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 74%. Recommend dynamic pricing increase.,True,False
+2025-02-14 06:45,Eastfield,noise,medium,Noise levels in Eastfield exceeded 65 dB for 3 consecutive hours. Investigate source.,False,False
+2025-02-15 21:54,Harbour,climate,medium,Temperature forecast: Harbour expecting 53°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-02-15 19:28,Harbour,energy,high,EV charging demand in Harbour surged 78% above baseline. Recommend load balancing.,True,False
+2025-02-15 19:25,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 34% week-over-week. Sentiment trending negative.,False,True
+2025-02-16 18:43,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 37% versus forecast. Investigate enforcement.,False,True
+2025-02-17 08:53,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 53%. Recommend dynamic pricing increase.,True,False
+2025-02-17 12:07,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 72%. Recommend dynamic pricing increase.,True,False
+2025-02-17 09:07,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 46% week-over-week. Sentiment trending negative.,True,False
+2025-02-18 07:26,Eastfield,noise,medium,Noise levels in Eastfield exceeded 35 dB for 3 consecutive hours. Investigate source.,True,False
+2025-02-19 14:06,Greenpark,waste,medium,Waste collection delay in Greenpark. 31 bins at capacity. Route optimisation triggered.,True,False
+2025-02-20 14:07,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 32°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-02-20 08:01,Northgate,environment,critical,Air quality index in Northgate reached 21 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-02-21 18:54,Harbour,energy,high,EV charging demand in Harbour surged 19% above baseline. Recommend load balancing.,True,False
+2025-02-21 08:45,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 75% above prediction. Signal timing adjusted automatically.,False,False
+2025-02-21 06:04,Riverside,energy,high,EV charging demand in Riverside surged 81% above baseline. Recommend load balancing.,False,True
+2025-02-21 19:22,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 89%. Recommend dynamic pricing increase.,True,False
+2025-02-22 13:55,Central,environment,critical,Air quality index in Central reached 62 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-02-23 11:03,Greenpark,waste,medium,Waste collection delay in Greenpark. 76 bins at capacity. Route optimisation triggered.,True,False
+2025-02-23 18:48,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 93 units offline. Maintenance crew dispatched.,True,False
+2025-02-23 11:40,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 64% week-over-week. Sentiment trending negative.,True,False
+2025-02-24 19:29,Central,energy,high,EV charging demand in Central surged 27% above baseline. Recommend load balancing.,False,True
+2025-02-24 11:51,Eastfield,environment,critical,Air quality index in Eastfield reached 27 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-02-25 19:37,Central,parking,high,Parking demand spike detected in Central. Occupancy at 84%. Recommend dynamic pricing increase.,True,False
+2025-02-26 06:02,Riverside,energy,high,EV charging demand in Riverside surged 85% above baseline. Recommend load balancing.,False,True
+2025-02-26 20:03,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 48%. Recommend dynamic pricing increase.,True,False
+2025-02-27 13:53,Central,climate,medium,Temperature forecast: Central expecting 47°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-02-27 11:05,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 38 units offline. Maintenance crew dispatched.,False,False
+2025-03-01 19:27,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 42% above prediction. Signal timing adjusted automatically.,True,False
+2025-03-01 15:57,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 31 units offline. Maintenance crew dispatched.,True,False
+2025-03-02 18:37,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 41%. Recommend dynamic pricing increase.,True,False
+2025-03-03 17:16,Greenpark,noise,medium,Noise levels in Greenpark exceeded 40 dB for 3 consecutive hours. Investigate source.,True,False
+2025-03-03 08:30,Central,environment,critical,Air quality index in Central reached 79 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-03-04 08:54,Central,citizen_services,high,Citizen complaint volume in Central up 89% week-over-week. Sentiment trending negative.,True,False
+2025-03-05 11:42,Central,noise,medium,Noise levels in Central exceeded 27 dB for 3 consecutive hours. Investigate source.,True,False
+2025-03-05 14:43,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 30 units offline. Maintenance crew dispatched.,True,False
+2025-03-06 15:02,Riverside,climate,medium,Temperature forecast: Riverside expecting 40°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-03-06 12:44,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 81% versus forecast. Investigate enforcement.,True,False
+2025-03-07 06:36,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 62%. Recommend dynamic pricing increase.,False,True
+2025-03-08 13:21,Riverside,energy,high,EV charging demand in Riverside surged 29% above baseline. Recommend load balancing.,True,False
+2025-03-08 21:02,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 58 units offline. Maintenance crew dispatched.,False,False
+2025-03-10 15:58,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 23% week-over-week. Sentiment trending negative.,False,True
+2025-03-11 13:22,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 54 units offline. Maintenance crew dispatched.,True,False
+2025-03-11 15:29,Harbour,noise,medium,Noise levels in Harbour exceeded 27 dB for 3 consecutive hours. Investigate source.,True,False
+2025-03-11 11:05,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 55% versus forecast. Investigate enforcement.,False,True
+2025-03-11 18:10,Riverside,noise,medium,Noise levels in Riverside exceeded 69 dB for 3 consecutive hours. Investigate source.,False,False
+2025-03-12 16:30,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 85% week-over-week. Sentiment trending negative.,False,True
+2025-03-12 13:21,Greenpark,noise,medium,Noise levels in Greenpark exceeded 89 dB for 3 consecutive hours. Investigate source.,False,False
+2025-03-12 19:21,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 45% week-over-week. Sentiment trending negative.,True,False
+2025-03-12 09:32,Greenpark,noise,medium,Noise levels in Greenpark exceeded 45 dB for 3 consecutive hours. Investigate source.,False,False
+2025-03-13 18:45,Central,environment,critical,Air quality index in Central reached 45 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-03-13 20:56,Northgate,energy,high,EV charging demand in Northgate surged 53% above baseline. Recommend load balancing.,True,False
+2025-03-13 18:19,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 94%. Recommend dynamic pricing increase.,True,False
+2025-03-13 11:22,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 64% week-over-week. Sentiment trending negative.,True,False
+2025-03-14 14:23,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 42%. Recommend dynamic pricing increase.,True,False
+2025-03-14 12:01,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 27% above prediction. Signal timing adjusted automatically.,False,False
+2025-03-14 16:38,Northgate,noise,medium,Noise levels in Northgate exceeded 17 dB for 3 consecutive hours. Investigate source.,False,False
+2025-03-15 07:56,Riverside,traffic,low,Traffic flow anomaly in Riverside. Volume 34% above prediction. Signal timing adjusted automatically.,True,False
+2025-03-17 06:45,Harbour,energy,high,EV charging demand in Harbour surged 90% above baseline. Recommend load balancing.,False,True
+2025-03-17 17:23,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 19%. Recommend dynamic pricing increase.,True,False
+2025-03-18 07:55,Greenpark,noise,medium,Noise levels in Greenpark exceeded 58 dB for 3 consecutive hours. Investigate source.,True,False
+2025-03-18 12:31,Harbour,climate,medium,Temperature forecast: Harbour expecting 89°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-03-19 12:06,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 86% week-over-week. Sentiment trending negative.,True,False
+2025-03-19 21:09,Eastfield,waste,medium,Waste collection delay in Eastfield. 16 bins at capacity. Route optimisation triggered.,True,False
+2025-03-20 11:31,Northgate,waste,medium,Waste collection delay in Northgate. 56 bins at capacity. Route optimisation triggered.,False,False
+2025-03-21 14:21,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 34°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-03-21 07:03,Northgate,energy,high,EV charging demand in Northgate surged 36% above baseline. Recommend load balancing.,True,False
+2025-03-21 12:39,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 57%. Recommend dynamic pricing increase.,True,False
+2025-03-22 15:07,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 31% versus forecast. Investigate enforcement.,True,False
+2025-03-22 12:44,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 89 units offline. Maintenance crew dispatched.,False,False
+2025-03-22 21:14,Greenpark,waste,medium,Waste collection delay in Greenpark. 81 bins at capacity. Route optimisation triggered.,True,False
+2025-03-24 11:39,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 38%. Recommend dynamic pricing increase.,False,True
+2025-03-24 14:07,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 27% week-over-week. Sentiment trending negative.,True,False
+2025-03-25 21:33,Central,citizen_services,high,Citizen complaint volume in Central up 35% week-over-week. Sentiment trending negative.,False,True
+2025-03-25 07:45,Central,climate,medium,Temperature forecast: Central expecting 85°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-03-25 07:51,Central,climate,medium,Temperature forecast: Central expecting 72°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-03-25 15:32,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 23 units offline. Maintenance crew dispatched.,True,False
+2025-03-26 18:13,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 50%. Recommend dynamic pricing increase.,True,False
+2025-03-26 08:55,Harbour,noise,medium,Noise levels in Harbour exceeded 67 dB for 3 consecutive hours. Investigate source.,True,False
+2025-03-26 11:24,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 46% above prediction. Signal timing adjusted automatically.,False,False
+2025-03-27 14:19,Northgate,noise,medium,Noise levels in Northgate exceeded 84 dB for 3 consecutive hours. Investigate source.,False,False
+2025-03-28 14:00,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 79%. Recommend dynamic pricing increase.,False,True
+2025-03-29 13:28,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 38% versus forecast. Investigate enforcement.,True,False
+2025-03-29 17:03,Eastfield,environment,critical,Air quality index in Eastfield reached 25 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-03-29 07:57,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 25%. Recommend dynamic pricing increase.,False,True
+2025-03-29 20:49,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 56 units offline. Maintenance crew dispatched.,True,False
+2025-03-30 14:27,Northgate,environment,critical,Air quality index in Northgate reached 37 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-03-31 12:04,Central,citizen_services,high,Citizen complaint volume in Central up 32% week-over-week. Sentiment trending negative.,False,True
+2025-03-31 06:17,Eastfield,waste,medium,Waste collection delay in Eastfield. 59 bins at capacity. Route optimisation triggered.,False,False
+2025-03-31 14:42,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 26% versus forecast. Investigate enforcement.,False,True
+2025-04-01 11:05,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 56%. Recommend dynamic pricing increase.,True,False
+2025-04-01 13:07,Greenpark,energy,high,EV charging demand in Greenpark surged 31% above baseline. Recommend load balancing.,False,True
+2025-04-01 11:49,Eastfield,noise,medium,Noise levels in Eastfield exceeded 77 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-02 15:38,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 47%. Recommend dynamic pricing increase.,False,True
+2025-04-02 07:44,Northgate,waste,medium,Waste collection delay in Northgate. 48 bins at capacity. Route optimisation triggered.,True,False
+2025-04-02 08:28,Harbour,environment,critical,Air quality index in Harbour reached 74 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-04-03 15:33,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 25%. Recommend dynamic pricing increase.,True,False
+2025-04-03 09:24,Harbour,energy,high,EV charging demand in Harbour surged 85% above baseline. Recommend load balancing.,True,False
+2025-04-04 11:56,Greenpark,waste,medium,Waste collection delay in Greenpark. 56 bins at capacity. Route optimisation triggered.,True,False
+2025-04-04 07:14,Riverside,noise,medium,Noise levels in Riverside exceeded 67 dB for 3 consecutive hours. Investigate source.,False,False
+2025-04-05 14:27,Eastfield,energy,high,EV charging demand in Eastfield surged 87% above baseline. Recommend load balancing.,False,True
+2025-04-05 12:44,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 54% above prediction. Signal timing adjusted automatically.,True,False
+2025-04-05 11:52,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 63°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-04-06 09:32,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 89% above prediction. Signal timing adjusted automatically.,False,False
+2025-04-06 19:41,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 48%. Recommend dynamic pricing increase.,False,True
+2025-04-06 20:53,Eastfield,energy,high,EV charging demand in Eastfield surged 24% above baseline. Recommend load balancing.,True,False
+2025-04-06 14:14,Harbour,noise,medium,Noise levels in Harbour exceeded 91 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-08 08:45,Central,waste,medium,Waste collection delay in Central. 84 bins at capacity. Route optimisation triggered.,True,False
+2025-04-09 13:17,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 47% week-over-week. Sentiment trending negative.,False,True
+2025-04-09 15:24,Harbour,noise,medium,Noise levels in Harbour exceeded 72 dB for 3 consecutive hours. Investigate source.,False,False
+2025-04-10 13:05,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 82% versus forecast. Investigate enforcement.,False,True
+2025-04-11 06:34,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 47°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-04-11 10:25,Harbour,waste,medium,Waste collection delay in Harbour. 25 bins at capacity. Route optimisation triggered.,True,False
+2025-04-12 12:23,Central,noise,medium,Noise levels in Central exceeded 34 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-12 10:33,Greenpark,noise,medium,Noise levels in Greenpark exceeded 18 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-13 18:00,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 54%. Recommend dynamic pricing increase.,False,True
+2025-04-13 16:13,Harbour,environment,critical,Air quality index in Harbour reached 24 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-04-13 19:39,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 92%. Recommend dynamic pricing increase.,True,False
+2025-04-14 14:40,Harbour,noise,medium,Noise levels in Harbour exceeded 54 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-14 08:27,Northgate,waste,medium,Waste collection delay in Northgate. 34 bins at capacity. Route optimisation triggered.,True,False
+2025-04-15 18:48,Harbour,climate,medium,Temperature forecast: Harbour expecting 81°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-04-15 20:19,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 77% week-over-week. Sentiment trending negative.,True,False
+2025-04-15 20:33,Riverside,environment,critical,Air quality index in Riverside reached 71 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-04-16 21:33,Riverside,environment,critical,Air quality index in Riverside reached 28 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-04-17 06:36,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 46% above prediction. Signal timing adjusted automatically.,False,False
+2025-04-18 08:22,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 22% versus forecast. Investigate enforcement.,True,False
+2025-04-18 11:30,Greenpark,environment,critical,Air quality index in Greenpark reached 35 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-04-19 16:56,Central,environment,critical,Air quality index in Central reached 43 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-04-20 09:39,Central,noise,medium,Noise levels in Central exceeded 70 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-21 07:44,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 18% versus forecast. Investigate enforcement.,False,True
+2025-04-21 10:44,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 45%. Recommend dynamic pricing increase.,True,False
+2025-04-21 13:23,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 48% week-over-week. Sentiment trending negative.,True,False
+2025-04-22 16:23,Eastfield,environment,critical,Air quality index in Eastfield reached 66 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-04-22 10:18,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 66 units offline. Maintenance crew dispatched.,False,False
+2025-04-23 10:37,Harbour,climate,medium,Temperature forecast: Harbour expecting 18°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-04-24 15:40,Harbour,environment,critical,Air quality index in Harbour reached 73 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-04-24 10:06,Northgate,noise,medium,Noise levels in Northgate exceeded 15 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-24 10:47,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 59 units offline. Maintenance crew dispatched.,True,False
+2025-04-25 21:43,Riverside,traffic,low,Traffic flow anomaly in Riverside. Volume 76% above prediction. Signal timing adjusted automatically.,False,False
+2025-04-25 19:35,Central,noise,medium,Noise levels in Central exceeded 71 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-26 15:44,Eastfield,environment,critical,Air quality index in Eastfield reached 36 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-04-26 11:04,Northgate,noise,medium,Noise levels in Northgate exceeded 70 dB for 3 consecutive hours. Investigate source.,True,False
+2025-04-27 06:22,Eastfield,energy,high,EV charging demand in Eastfield surged 16% above baseline. Recommend load balancing.,True,False
+2025-04-27 19:30,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 52% versus forecast. Investigate enforcement.,True,False
+2025-04-28 07:26,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 73% week-over-week. Sentiment trending negative.,True,False
+2025-04-29 09:56,Northgate,climate,medium,Temperature forecast: Northgate expecting 27°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-04-30 12:46,Eastfield,waste,medium,Waste collection delay in Eastfield. 64 bins at capacity. Route optimisation triggered.,False,False
+2025-04-30 20:10,Central,parking,high,Parking demand spike detected in Central. Occupancy at 37%. Recommend dynamic pricing increase.,False,True
+2025-04-30 16:22,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 59% week-over-week. Sentiment trending negative.,True,False
+2025-04-30 21:18,Eastfield,energy,high,EV charging demand in Eastfield surged 26% above baseline. Recommend load balancing.,False,True
+2025-05-01 06:46,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 32% above prediction. Signal timing adjusted automatically.,False,False
+2025-05-01 12:37,Eastfield,waste,medium,Waste collection delay in Eastfield. 34 bins at capacity. Route optimisation triggered.,True,False
+2025-05-03 06:10,Central,environment,critical,Air quality index in Central reached 77 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-05-03 19:17,Northgate,environment,critical,Air quality index in Northgate reached 20 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-05-04 15:18,Greenpark,waste,medium,Waste collection delay in Greenpark. 81 bins at capacity. Route optimisation triggered.,True,False
+2025-05-04 20:52,Harbour,environment,critical,Air quality index in Harbour reached 22 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-05-05 18:16,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 74 units offline. Maintenance crew dispatched.,False,False
+2025-05-05 16:05,Central,citizen_services,high,Citizen complaint volume in Central up 23% week-over-week. Sentiment trending negative.,True,False
+2025-05-06 13:26,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 51% versus forecast. Investigate enforcement.,True,False
+2025-05-06 10:33,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 30% week-over-week. Sentiment trending negative.,True,False
+2025-05-07 13:35,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 43% week-over-week. Sentiment trending negative.,True,False
+2025-05-07 07:01,Eastfield,noise,medium,Noise levels in Eastfield exceeded 45 dB for 3 consecutive hours. Investigate source.,False,False
+2025-05-08 16:33,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 34%. Recommend dynamic pricing increase.,True,False
+2025-05-08 16:54,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 71% versus forecast. Investigate enforcement.,True,False
+2025-05-08 11:04,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 86% versus forecast. Investigate enforcement.,True,False
+2025-05-09 10:26,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 43 units offline. Maintenance crew dispatched.,False,False
+2025-05-09 11:54,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 28% above prediction. Signal timing adjusted automatically.,False,False
+2025-05-09 09:12,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 27 units offline. Maintenance crew dispatched.,False,False
+2025-05-10 11:26,Greenpark,waste,medium,Waste collection delay in Greenpark. 29 bins at capacity. Route optimisation triggered.,False,False
+2025-05-10 07:20,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 91% above prediction. Signal timing adjusted automatically.,False,False
+2025-05-11 14:12,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 65% week-over-week. Sentiment trending negative.,True,False
+2025-05-11 11:05,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 17% versus forecast. Investigate enforcement.,True,False
+2025-05-12 12:45,Northgate,noise,medium,Noise levels in Northgate exceeded 57 dB for 3 consecutive hours. Investigate source.,True,False
+2025-05-12 21:57,Central,finance,high,Revenue anomaly: Central parking revenue down 61% versus forecast. Investigate enforcement.,True,False
+2025-05-12 16:22,Northgate,energy,high,EV charging demand in Northgate surged 39% above baseline. Recommend load balancing.,True,False
+2025-05-12 18:08,Riverside,traffic,low,Traffic flow anomaly in Riverside. Volume 60% above prediction. Signal timing adjusted automatically.,True,False
+2025-05-15 18:35,Central,parking,high,Parking demand spike detected in Central. Occupancy at 92%. Recommend dynamic pricing increase.,True,False
+2025-05-16 10:01,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 21% versus forecast. Investigate enforcement.,True,False
+2025-05-17 06:45,Eastfield,noise,medium,Noise levels in Eastfield exceeded 94 dB for 3 consecutive hours. Investigate source.,False,False
+2025-05-17 14:06,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 89% versus forecast. Investigate enforcement.,False,True
+2025-05-17 12:04,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 88%. Recommend dynamic pricing increase.,True,False
+2025-05-18 08:13,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 43 units offline. Maintenance crew dispatched.,False,False
+2025-05-18 19:39,Northgate,waste,medium,Waste collection delay in Northgate. 87 bins at capacity. Route optimisation triggered.,True,False
+2025-05-19 17:04,Central,traffic,low,Traffic flow anomaly in Central. Volume 50% above prediction. Signal timing adjusted automatically.,True,False
+2025-05-19 21:32,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 85 units offline. Maintenance crew dispatched.,True,False
+2025-05-19 09:44,Harbour,climate,medium,Temperature forecast: Harbour expecting 87°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-05-20 14:31,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 76% versus forecast. Investigate enforcement.,True,False
+2025-05-20 08:03,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 67%. Recommend dynamic pricing increase.,False,True
+2025-05-20 13:39,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 42 units offline. Maintenance crew dispatched.,True,False
+2025-05-21 21:27,Northgate,climate,medium,Temperature forecast: Northgate expecting 29°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-05-21 11:51,Greenpark,waste,medium,Waste collection delay in Greenpark. 17 bins at capacity. Route optimisation triggered.,False,False
+2025-05-21 11:23,Greenpark,energy,high,EV charging demand in Greenpark surged 18% above baseline. Recommend load balancing.,False,True
+2025-05-22 18:36,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 67% above prediction. Signal timing adjusted automatically.,True,False
+2025-05-22 09:57,Harbour,waste,medium,Waste collection delay in Harbour. 59 bins at capacity. Route optimisation triggered.,True,False
+2025-05-22 16:13,Harbour,climate,medium,Temperature forecast: Harbour expecting 44°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-05-23 17:40,Central,finance,high,Revenue anomaly: Central parking revenue down 16% versus forecast. Investigate enforcement.,False,True
+2025-05-23 15:04,Central,climate,medium,Temperature forecast: Central expecting 77°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-05-24 18:18,Eastfield,environment,critical,Air quality index in Eastfield reached 57 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-05-26 12:17,Greenpark,environment,critical,Air quality index in Greenpark reached 73 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-05-26 15:00,Eastfield,waste,medium,Waste collection delay in Eastfield. 51 bins at capacity. Route optimisation triggered.,False,False
+2025-05-27 07:18,Eastfield,environment,critical,Air quality index in Eastfield reached 75 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-05-27 10:22,Eastfield,waste,medium,Waste collection delay in Eastfield. 51 bins at capacity. Route optimisation triggered.,False,False
+2025-05-27 17:33,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 45% above prediction. Signal timing adjusted automatically.,True,False
+2025-05-28 19:09,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 21% week-over-week. Sentiment trending negative.,True,False
+2025-05-28 18:35,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 59% above prediction. Signal timing adjusted automatically.,True,False
+2025-05-28 17:29,Eastfield,energy,high,EV charging demand in Eastfield surged 70% above baseline. Recommend load balancing.,True,False
+2025-05-28 18:48,Central,noise,medium,Noise levels in Central exceeded 61 dB for 3 consecutive hours. Investigate source.,False,False
+2025-05-29 11:51,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 22% above prediction. Signal timing adjusted automatically.,False,False
+2025-05-30 20:11,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 62% versus forecast. Investigate enforcement.,False,True
+2025-05-30 12:31,Central,climate,medium,Temperature forecast: Central expecting 90°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-05-31 19:42,Central,parking,high,Parking demand spike detected in Central. Occupancy at 86%. Recommend dynamic pricing increase.,True,False
+2025-05-31 18:26,Eastfield,noise,medium,Noise levels in Eastfield exceeded 85 dB for 3 consecutive hours. Investigate source.,False,False
+2025-05-31 08:05,Greenpark,waste,medium,Waste collection delay in Greenpark. 24 bins at capacity. Route optimisation triggered.,True,False
+2025-05-31 14:18,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 39%. Recommend dynamic pricing increase.,False,True
+2025-06-01 18:11,Riverside,climate,medium,Temperature forecast: Riverside expecting 40°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-02 08:13,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 75 units offline. Maintenance crew dispatched.,True,False
+2025-06-02 16:41,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 44%. Recommend dynamic pricing increase.,False,True
+2025-06-03 12:37,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 70%. Recommend dynamic pricing increase.,False,True
+2025-06-03 09:42,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 68% versus forecast. Investigate enforcement.,False,True
+2025-06-04 19:54,Riverside,climate,medium,Temperature forecast: Riverside expecting 71°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-04 10:45,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 46 units offline. Maintenance crew dispatched.,False,False
+2025-06-05 18:30,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 37% versus forecast. Investigate enforcement.,True,False
+2025-06-05 20:38,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 57% week-over-week. Sentiment trending negative.,True,False
+2025-06-05 11:16,Northgate,environment,critical,Air quality index in Northgate reached 47 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-06-06 06:39,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 80 units offline. Maintenance crew dispatched.,True,False
+2025-06-06 12:36,Eastfield,energy,high,EV charging demand in Eastfield surged 82% above baseline. Recommend load balancing.,True,False
+2025-06-06 21:08,Harbour,noise,medium,Noise levels in Harbour exceeded 29 dB for 3 consecutive hours. Investigate source.,False,False
+2025-06-07 18:35,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 59 units offline. Maintenance crew dispatched.,True,False
+2025-06-07 17:41,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 49°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-06-08 18:50,Greenpark,waste,medium,Waste collection delay in Greenpark. 75 bins at capacity. Route optimisation triggered.,True,False
+2025-06-08 13:58,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 17%. Recommend dynamic pricing increase.,True,False
+2025-06-10 18:34,Harbour,climate,medium,Temperature forecast: Harbour expecting 32°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-06-10 12:10,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 64 units offline. Maintenance crew dispatched.,True,False
+2025-06-11 07:17,Harbour,climate,medium,Temperature forecast: Harbour expecting 50°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-11 09:47,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 68%. Recommend dynamic pricing increase.,False,True
+2025-06-12 06:26,Harbour,environment,critical,Air quality index in Harbour reached 49 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-06-13 07:45,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 87%. Recommend dynamic pricing increase.,False,True
+2025-06-14 15:32,Central,environment,critical,Air quality index in Central reached 17 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-06-14 16:17,Riverside,noise,medium,Noise levels in Riverside exceeded 59 dB for 3 consecutive hours. Investigate source.,False,False
+2025-06-15 17:27,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 85% versus forecast. Investigate enforcement.,True,False
+2025-06-15 13:35,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 39% week-over-week. Sentiment trending negative.,True,False
+2025-06-16 09:25,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 69% above prediction. Signal timing adjusted automatically.,False,False
+2025-06-17 17:15,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 43°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-17 20:11,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 22 units offline. Maintenance crew dispatched.,True,False
+2025-06-18 11:42,Central,finance,high,Revenue anomaly: Central parking revenue down 51% versus forecast. Investigate enforcement.,True,False
+2025-06-18 08:02,Harbour,climate,medium,Temperature forecast: Harbour expecting 82°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-18 18:15,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 81%. Recommend dynamic pricing increase.,False,True
+2025-06-18 08:18,Central,parking,high,Parking demand spike detected in Central. Occupancy at 75%. Recommend dynamic pricing increase.,True,False
+2025-06-19 21:41,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 90% above prediction. Signal timing adjusted automatically.,True,False
+2025-06-19 16:32,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 39% versus forecast. Investigate enforcement.,True,False
+2025-06-19 10:33,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 69% above prediction. Signal timing adjusted automatically.,False,False
+2025-06-20 11:14,Harbour,waste,medium,Waste collection delay in Harbour. 49 bins at capacity. Route optimisation triggered.,False,False
+2025-06-20 06:00,Riverside,noise,medium,Noise levels in Riverside exceeded 46 dB for 3 consecutive hours. Investigate source.,False,False
+2025-06-21 21:34,Eastfield,noise,medium,Noise levels in Eastfield exceeded 50 dB for 3 consecutive hours. Investigate source.,True,False
+2025-06-21 06:30,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 62% versus forecast. Investigate enforcement.,True,False
+2025-06-21 16:46,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 85°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-22 20:58,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 54%. Recommend dynamic pricing increase.,False,True
+2025-06-23 08:41,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 91% week-over-week. Sentiment trending negative.,True,False
+2025-06-24 06:31,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 18% week-over-week. Sentiment trending negative.,False,True
+2025-06-24 18:51,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 40 units offline. Maintenance crew dispatched.,True,False
+2025-06-25 15:28,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 71%. Recommend dynamic pricing increase.,False,True
+2025-06-26 16:07,Eastfield,environment,critical,Air quality index in Eastfield reached 82 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-06-27 17:31,Central,noise,medium,Noise levels in Central exceeded 57 dB for 3 consecutive hours. Investigate source.,False,False
+2025-06-27 16:15,Northgate,noise,medium,Noise levels in Northgate exceeded 58 dB for 3 consecutive hours. Investigate source.,False,False
+2025-06-28 15:21,Central,noise,medium,Noise levels in Central exceeded 74 dB for 3 consecutive hours. Investigate source.,False,False
+2025-06-29 14:58,Riverside,waste,medium,Waste collection delay in Riverside. 46 bins at capacity. Route optimisation triggered.,True,False
+2025-06-29 12:58,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 87% versus forecast. Investigate enforcement.,True,False
+2025-06-29 13:04,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 39% versus forecast. Investigate enforcement.,True,False
+2025-06-30 11:00,Northgate,climate,medium,Temperature forecast: Northgate expecting 65°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-06-30 17:04,Harbour,noise,medium,Noise levels in Harbour exceeded 46 dB for 3 consecutive hours. Investigate source.,True,False
+2025-06-30 20:01,Central,parking,high,Parking demand spike detected in Central. Occupancy at 65%. Recommend dynamic pricing increase.,False,True
+2025-06-30 12:04,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 80% above prediction. Signal timing adjusted automatically.,True,False
+2025-07-01 19:41,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 89 units offline. Maintenance crew dispatched.,False,False
+2025-07-02 20:46,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 27% above prediction. Signal timing adjusted automatically.,True,False
+2025-07-02 15:18,Harbour,environment,critical,Air quality index in Harbour reached 41 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-07-03 15:30,Harbour,climate,medium,Temperature forecast: Harbour expecting 56°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-07-03 11:38,Central,waste,medium,Waste collection delay in Central. 76 bins at capacity. Route optimisation triggered.,False,False
+2025-07-04 19:07,Eastfield,energy,high,EV charging demand in Eastfield surged 70% above baseline. Recommend load balancing.,True,False
+2025-07-05 06:55,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 35% week-over-week. Sentiment trending negative.,False,True
+2025-07-05 14:49,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 39%. Recommend dynamic pricing increase.,True,False
+2025-07-05 15:44,Riverside,environment,critical,Air quality index in Riverside reached 31 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-07-05 18:14,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 54 units offline. Maintenance crew dispatched.,True,False
+2025-07-06 08:19,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 93% week-over-week. Sentiment trending negative.,False,True
+2025-07-07 18:44,Riverside,waste,medium,Waste collection delay in Riverside. 34 bins at capacity. Route optimisation triggered.,False,False
+2025-07-08 06:26,Central,noise,medium,Noise levels in Central exceeded 38 dB for 3 consecutive hours. Investigate source.,True,False
+2025-07-08 21:09,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 71% versus forecast. Investigate enforcement.,False,True
+2025-07-09 19:22,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 21% week-over-week. Sentiment trending negative.,True,False
+2025-07-09 14:03,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 61 units offline. Maintenance crew dispatched.,True,False
+2025-07-09 19:09,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 48 units offline. Maintenance crew dispatched.,True,False
+2025-07-09 09:07,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 83%. Recommend dynamic pricing increase.,True,False
+2025-07-10 10:57,Riverside,environment,critical,Air quality index in Riverside reached 86 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-07-10 20:10,Riverside,energy,high,EV charging demand in Riverside surged 90% above baseline. Recommend load balancing.,True,False
+2025-07-10 17:33,Northgate,climate,medium,Temperature forecast: Northgate expecting 30°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-07-11 06:05,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 40% week-over-week. Sentiment trending negative.,False,True
+2025-07-12 21:18,Harbour,environment,critical,Air quality index in Harbour reached 49 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-07-12 15:24,Northgate,waste,medium,Waste collection delay in Northgate. 68 bins at capacity. Route optimisation triggered.,True,False
+2025-07-13 21:04,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 81 units offline. Maintenance crew dispatched.,False,False
+2025-07-13 14:04,Northgate,energy,high,EV charging demand in Northgate surged 45% above baseline. Recommend load balancing.,True,False
+2025-07-14 14:14,Eastfield,noise,medium,Noise levels in Eastfield exceeded 39 dB for 3 consecutive hours. Investigate source.,True,False
+2025-07-14 06:43,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 48%. Recommend dynamic pricing increase.,True,False
+2025-07-14 13:48,Central,citizen_services,high,Citizen complaint volume in Central up 58% week-over-week. Sentiment trending negative.,False,True
+2025-07-15 08:25,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 86% week-over-week. Sentiment trending negative.,True,False
+2025-07-15 14:25,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 19% above prediction. Signal timing adjusted automatically.,True,False
+2025-07-15 06:58,Northgate,waste,medium,Waste collection delay in Northgate. 38 bins at capacity. Route optimisation triggered.,True,False
+2025-07-16 17:53,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 22°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-07-16 10:51,Northgate,climate,medium,Temperature forecast: Northgate expecting 33°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-07-18 13:02,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 22 units offline. Maintenance crew dispatched.,True,False
+2025-07-18 20:22,Central,energy,high,EV charging demand in Central surged 41% above baseline. Recommend load balancing.,False,True
+2025-07-19 17:52,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 21% above prediction. Signal timing adjusted automatically.,True,False
+2025-07-20 17:30,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 52% above prediction. Signal timing adjusted automatically.,True,False
+2025-07-20 10:57,Northgate,climate,medium,Temperature forecast: Northgate expecting 24°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-07-21 17:55,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 70%. Recommend dynamic pricing increase.,True,False
+2025-07-21 21:24,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 46°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-07-22 07:53,Harbour,environment,critical,Air quality index in Harbour reached 72 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-07-22 12:47,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 15 units offline. Maintenance crew dispatched.,True,False
+2025-07-22 07:39,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 35% above prediction. Signal timing adjusted automatically.,False,False
+2025-07-23 18:13,Central,energy,high,EV charging demand in Central surged 44% above baseline. Recommend load balancing.,True,False
+2025-07-24 08:08,Central,energy,high,EV charging demand in Central surged 77% above baseline. Recommend load balancing.,True,False
+2025-07-25 19:20,Northgate,waste,medium,Waste collection delay in Northgate. 64 bins at capacity. Route optimisation triggered.,True,False
+2025-07-25 15:45,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 71% versus forecast. Investigate enforcement.,True,False
+2025-07-26 14:32,Central,parking,high,Parking demand spike detected in Central. Occupancy at 85%. Recommend dynamic pricing increase.,True,False
+2025-07-26 19:22,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 49% above prediction. Signal timing adjusted automatically.,True,False
+2025-07-27 20:02,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 62%. Recommend dynamic pricing increase.,True,False
+2025-07-27 19:10,Greenpark,energy,high,EV charging demand in Greenpark surged 79% above baseline. Recommend load balancing.,True,False
+2025-07-28 18:14,Harbour,environment,critical,Air quality index in Harbour reached 62 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-07-28 11:49,Central,finance,high,Revenue anomaly: Central parking revenue down 24% versus forecast. Investigate enforcement.,True,False
+2025-07-29 09:06,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 38 units offline. Maintenance crew dispatched.,True,False
+2025-07-30 11:30,Harbour,climate,medium,Temperature forecast: Harbour expecting 62°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-07-30 13:20,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 49% week-over-week. Sentiment trending negative.,True,False
+2025-07-31 07:23,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 25 units offline. Maintenance crew dispatched.,True,False
+2025-07-31 08:50,Northgate,climate,medium,Temperature forecast: Northgate expecting 56°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-07-31 06:31,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 15% above prediction. Signal timing adjusted automatically.,False,False
+2025-07-31 06:19,Central,waste,medium,Waste collection delay in Central. 33 bins at capacity. Route optimisation triggered.,True,False
+2025-08-01 19:48,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 80%. Recommend dynamic pricing increase.,True,False
+2025-08-01 07:45,Greenpark,energy,high,EV charging demand in Greenpark surged 40% above baseline. Recommend load balancing.,True,False
+2025-08-01 08:52,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 70 units offline. Maintenance crew dispatched.,True,False
+2025-08-03 11:43,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 72 units offline. Maintenance crew dispatched.,False,False
+2025-08-03 10:21,Central,environment,critical,Air quality index in Central reached 77 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-03 07:36,Riverside,traffic,low,Traffic flow anomaly in Riverside. Volume 69% above prediction. Signal timing adjusted automatically.,True,False
+2025-08-03 07:20,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 43% versus forecast. Investigate enforcement.,True,False
+2025-08-05 20:38,Northgate,waste,medium,Waste collection delay in Northgate. 94 bins at capacity. Route optimisation triggered.,True,False
+2025-08-05 07:18,Harbour,waste,medium,Waste collection delay in Harbour. 16 bins at capacity. Route optimisation triggered.,True,False
+2025-08-05 13:14,Northgate,energy,high,EV charging demand in Northgate surged 79% above baseline. Recommend load balancing.,True,False
+2025-08-05 06:18,Eastfield,energy,high,EV charging demand in Eastfield surged 41% above baseline. Recommend load balancing.,False,True
+2025-08-06 14:46,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 35% versus forecast. Investigate enforcement.,True,False
+2025-08-06 10:43,Central,parking,high,Parking demand spike detected in Central. Occupancy at 63%. Recommend dynamic pricing increase.,True,False
+2025-08-07 12:04,Riverside,environment,critical,Air quality index in Riverside reached 43 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-07 09:30,Riverside,environment,critical,Air quality index in Riverside reached 35 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-07 21:22,Eastfield,environment,critical,Air quality index in Eastfield reached 29 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-08 21:22,Central,finance,high,Revenue anomaly: Central parking revenue down 45% versus forecast. Investigate enforcement.,False,True
+2025-08-09 17:22,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 44 units offline. Maintenance crew dispatched.,True,False
+2025-08-09 06:31,Harbour,environment,critical,Air quality index in Harbour reached 57 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-10 09:15,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 29% week-over-week. Sentiment trending negative.,True,False
+2025-08-11 21:07,Greenpark,noise,medium,Noise levels in Greenpark exceeded 53 dB for 3 consecutive hours. Investigate source.,True,False
+2025-08-12 08:31,Greenpark,waste,medium,Waste collection delay in Greenpark. 48 bins at capacity. Route optimisation triggered.,True,False
+2025-08-13 13:39,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 31 units offline. Maintenance crew dispatched.,True,False
+2025-08-13 12:50,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 81% above prediction. Signal timing adjusted automatically.,False,False
+2025-08-14 21:08,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 31 units offline. Maintenance crew dispatched.,True,False
+2025-08-14 16:26,Eastfield,noise,medium,Noise levels in Eastfield exceeded 34 dB for 3 consecutive hours. Investigate source.,True,False
+2025-08-14 15:03,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 32%. Recommend dynamic pricing increase.,False,True
+2025-08-14 20:42,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 86% versus forecast. Investigate enforcement.,True,False
+2025-08-15 15:18,Central,climate,medium,Temperature forecast: Central expecting 46°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-08-15 13:19,Northgate,environment,critical,Air quality index in Northgate reached 75 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-08-15 07:06,Central,climate,medium,Temperature forecast: Central expecting 58°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-08-15 21:30,Harbour,climate,medium,Temperature forecast: Harbour expecting 17°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-08-16 06:57,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 32% above prediction. Signal timing adjusted automatically.,True,False
+2025-08-16 20:22,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 93°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-08-16 14:00,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 81% week-over-week. Sentiment trending negative.,True,False
+2025-08-17 20:03,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 32%. Recommend dynamic pricing increase.,False,True
+2025-08-17 09:47,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 23°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-08-17 14:21,Eastfield,waste,medium,Waste collection delay in Eastfield. 85 bins at capacity. Route optimisation triggered.,True,False
+2025-08-18 10:37,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 37%. Recommend dynamic pricing increase.,False,True
+2025-08-18 12:58,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 76 units offline. Maintenance crew dispatched.,False,False
+2025-08-19 07:29,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 83 units offline. Maintenance crew dispatched.,True,False
+2025-08-19 17:34,Central,citizen_services,high,Citizen complaint volume in Central up 68% week-over-week. Sentiment trending negative.,True,False
+2025-08-19 13:49,Harbour,energy,high,EV charging demand in Harbour surged 92% above baseline. Recommend load balancing.,True,False
+2025-08-20 13:54,Eastfield,energy,high,EV charging demand in Eastfield surged 18% above baseline. Recommend load balancing.,False,True
+2025-08-20 19:49,Central,environment,critical,Air quality index in Central reached 66 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-21 08:41,Harbour,waste,medium,Waste collection delay in Harbour. 45 bins at capacity. Route optimisation triggered.,False,False
+2025-08-21 10:15,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 27 units offline. Maintenance crew dispatched.,True,False
+2025-08-21 11:56,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 54%. Recommend dynamic pricing increase.,True,False
+2025-08-21 20:26,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 29% week-over-week. Sentiment trending negative.,True,False
+2025-08-22 14:22,Riverside,climate,medium,Temperature forecast: Riverside expecting 73°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-08-24 07:04,Central,environment,critical,Air quality index in Central reached 20 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-24 12:22,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 52% versus forecast. Investigate enforcement.,False,True
+2025-08-25 08:21,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 94%. Recommend dynamic pricing increase.,True,False
+2025-08-25 06:49,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 89% above prediction. Signal timing adjusted automatically.,True,False
+2025-08-26 19:06,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 42% versus forecast. Investigate enforcement.,True,False
+2025-08-27 13:09,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 18%. Recommend dynamic pricing increase.,False,True
+2025-08-27 10:55,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 51°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-08-27 09:35,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 51% versus forecast. Investigate enforcement.,True,False
+2025-08-27 12:10,Harbour,climate,medium,Temperature forecast: Harbour expecting 81°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-08-28 13:36,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 54% versus forecast. Investigate enforcement.,True,False
+2025-08-28 09:43,Northgate,environment,critical,Air quality index in Northgate reached 54 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-08-28 13:37,Riverside,noise,medium,Noise levels in Riverside exceeded 17 dB for 3 consecutive hours. Investigate source.,True,False
+2025-08-28 06:51,Central,parking,high,Parking demand spike detected in Central. Occupancy at 58%. Recommend dynamic pricing increase.,True,False
+2025-08-29 11:06,Central,finance,high,Revenue anomaly: Central parking revenue down 60% versus forecast. Investigate enforcement.,False,True
+2025-08-29 17:14,Greenpark,environment,critical,Air quality index in Greenpark reached 50 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-08-30 16:10,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 49% versus forecast. Investigate enforcement.,True,False
+2025-08-31 21:54,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 26% versus forecast. Investigate enforcement.,False,True
+2025-08-31 08:44,Northgate,waste,medium,Waste collection delay in Northgate. 53 bins at capacity. Route optimisation triggered.,True,False
+2025-09-01 20:29,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 79 units offline. Maintenance crew dispatched.,False,False
+2025-09-01 10:09,Central,finance,high,Revenue anomaly: Central parking revenue down 38% versus forecast. Investigate enforcement.,True,False
+2025-09-01 09:12,Greenpark,waste,medium,Waste collection delay in Greenpark. 17 bins at capacity. Route optimisation triggered.,False,False
+2025-09-02 16:28,Central,parking,high,Parking demand spike detected in Central. Occupancy at 78%. Recommend dynamic pricing increase.,True,False
+2025-09-02 15:48,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 94% week-over-week. Sentiment trending negative.,True,False
+2025-09-03 21:29,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 26% versus forecast. Investigate enforcement.,False,True
+2025-09-04 20:06,Northgate,energy,high,EV charging demand in Northgate surged 90% above baseline. Recommend load balancing.,False,True
+2025-09-05 08:14,Riverside,waste,medium,Waste collection delay in Riverside. 58 bins at capacity. Route optimisation triggered.,True,False
+2025-09-05 20:25,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 46%. Recommend dynamic pricing increase.,False,True
+2025-09-06 11:30,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 60 units offline. Maintenance crew dispatched.,True,False
+2025-09-07 10:37,Central,environment,critical,Air quality index in Central reached 47 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-09-07 17:46,Northgate,environment,critical,Air quality index in Northgate reached 81 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-09-08 16:16,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 39% above prediction. Signal timing adjusted automatically.,True,False
+2025-09-08 15:53,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 64%. Recommend dynamic pricing increase.,True,False
+2025-09-09 08:40,Central,environment,critical,Air quality index in Central reached 62 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-09-09 20:08,Central,environment,critical,Air quality index in Central reached 63 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-09-11 16:12,Harbour,climate,medium,Temperature forecast: Harbour expecting 62°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-09-11 11:46,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 91 units offline. Maintenance crew dispatched.,False,False
+2025-09-11 15:27,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 78%. Recommend dynamic pricing increase.,True,False
+2025-09-12 15:50,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 94 units offline. Maintenance crew dispatched.,False,False
+2025-09-12 16:53,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 65%. Recommend dynamic pricing increase.,False,True
+2025-09-12 20:55,Riverside,energy,high,EV charging demand in Riverside surged 23% above baseline. Recommend load balancing.,False,True
+2025-09-14 18:40,Central,environment,critical,Air quality index in Central reached 59 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-09-14 10:06,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 86% above prediction. Signal timing adjusted automatically.,True,False
+2025-09-14 10:14,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 29 units offline. Maintenance crew dispatched.,True,False
+2025-09-15 17:04,Greenpark,environment,critical,Air quality index in Greenpark reached 45 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-09-15 18:04,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 27%. Recommend dynamic pricing increase.,True,False
+2025-09-16 17:44,Greenpark,waste,medium,Waste collection delay in Greenpark. 20 bins at capacity. Route optimisation triggered.,False,False
+2025-09-16 21:24,Riverside,noise,medium,Noise levels in Riverside exceeded 57 dB for 3 consecutive hours. Investigate source.,True,False
+2025-09-16 16:09,Harbour,energy,high,EV charging demand in Harbour surged 29% above baseline. Recommend load balancing.,False,True
+2025-09-16 09:34,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 18%. Recommend dynamic pricing increase.,False,True
+2025-09-17 16:44,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 20% above prediction. Signal timing adjusted automatically.,False,False
+2025-09-18 07:46,Greenpark,noise,medium,Noise levels in Greenpark exceeded 27 dB for 3 consecutive hours. Investigate source.,False,False
+2025-09-19 21:11,Harbour,energy,high,EV charging demand in Harbour surged 45% above baseline. Recommend load balancing.,False,True
+2025-09-19 07:41,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 52 units offline. Maintenance crew dispatched.,False,False
+2025-09-19 15:52,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 22% week-over-week. Sentiment trending negative.,True,False
+2025-09-20 12:26,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 74% above prediction. Signal timing adjusted automatically.,True,False
+2025-09-20 19:15,Harbour,energy,high,EV charging demand in Harbour surged 85% above baseline. Recommend load balancing.,True,False
+2025-09-21 20:05,Riverside,energy,high,EV charging demand in Riverside surged 47% above baseline. Recommend load balancing.,True,False
+2025-09-21 13:57,Harbour,climate,medium,Temperature forecast: Harbour expecting 57°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-09-23 21:54,Eastfield,energy,high,EV charging demand in Eastfield surged 27% above baseline. Recommend load balancing.,True,False
+2025-09-23 12:02,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 50%. Recommend dynamic pricing increase.,False,True
+2025-09-24 09:39,Central,environment,critical,Air quality index in Central reached 80 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-09-25 18:33,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 61% versus forecast. Investigate enforcement.,False,True
+2025-09-25 10:49,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 62%. Recommend dynamic pricing increase.,True,False
+2025-09-25 20:37,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 72 units offline. Maintenance crew dispatched.,True,False
+2025-09-26 08:11,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 88% versus forecast. Investigate enforcement.,True,False
+2025-09-27 13:05,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 62% week-over-week. Sentiment trending negative.,True,False
+2025-09-28 19:53,Central,parking,high,Parking demand spike detected in Central. Occupancy at 36%. Recommend dynamic pricing increase.,True,False
+2025-09-29 19:32,Central,energy,high,EV charging demand in Central surged 77% above baseline. Recommend load balancing.,False,True
+2025-09-29 18:35,Harbour,energy,high,EV charging demand in Harbour surged 66% above baseline. Recommend load balancing.,False,True
+2025-09-30 18:50,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 85 units offline. Maintenance crew dispatched.,True,False
+2025-10-01 16:04,Central,finance,high,Revenue anomaly: Central parking revenue down 54% versus forecast. Investigate enforcement.,False,True
+2025-10-02 10:03,Central,traffic,low,Traffic flow anomaly in Central. Volume 17% above prediction. Signal timing adjusted automatically.,True,False
+2025-10-03 18:47,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 71 units offline. Maintenance crew dispatched.,True,False
+2025-10-04 15:33,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 44 units offline. Maintenance crew dispatched.,True,False
+2025-10-04 19:30,Greenpark,environment,critical,Air quality index in Greenpark reached 51 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-10-05 18:07,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 71 units offline. Maintenance crew dispatched.,True,False
+2025-10-05 07:13,Riverside,climate,medium,Temperature forecast: Riverside expecting 56°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-10-05 21:08,Northgate,environment,critical,Air quality index in Northgate reached 49 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-10-06 21:11,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 75% week-over-week. Sentiment trending negative.,True,False
+2025-10-06 21:57,Harbour,environment,critical,Air quality index in Harbour reached 73 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-10-07 12:49,Riverside,climate,medium,Temperature forecast: Riverside expecting 51°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-10-07 06:30,Northgate,climate,medium,Temperature forecast: Northgate expecting 28°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-10-09 14:39,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 31°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-10-09 20:13,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 47% week-over-week. Sentiment trending negative.,True,False
+2025-10-10 17:37,Central,traffic,low,Traffic flow anomaly in Central. Volume 31% above prediction. Signal timing adjusted automatically.,True,False
+2025-10-11 14:42,Harbour,energy,high,EV charging demand in Harbour surged 19% above baseline. Recommend load balancing.,True,False
+2025-10-12 19:00,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 75 units offline. Maintenance crew dispatched.,True,False
+2025-10-13 18:12,Harbour,noise,medium,Noise levels in Harbour exceeded 58 dB for 3 consecutive hours. Investigate source.,True,False
+2025-10-13 15:26,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 24%. Recommend dynamic pricing increase.,True,False
+2025-10-14 21:53,Central,climate,medium,Temperature forecast: Central expecting 49°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-10-14 16:38,Central,environment,critical,Air quality index in Central reached 28 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-10-14 16:13,Riverside,environment,critical,Air quality index in Riverside reached 75 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-10-15 15:19,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 43% versus forecast. Investigate enforcement.,False,True
+2025-10-16 18:50,Harbour,energy,high,EV charging demand in Harbour surged 88% above baseline. Recommend load balancing.,False,True
+2025-10-16 18:25,Riverside,waste,medium,Waste collection delay in Riverside. 73 bins at capacity. Route optimisation triggered.,True,False
+2025-10-17 07:41,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 39% week-over-week. Sentiment trending negative.,True,False
+2025-10-18 21:57,Central,climate,medium,Temperature forecast: Central expecting 31°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-10-19 14:36,Riverside,waste,medium,Waste collection delay in Riverside. 75 bins at capacity. Route optimisation triggered.,True,False
+2025-10-19 09:29,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 87%. Recommend dynamic pricing increase.,True,False
+2025-10-19 11:16,Central,noise,medium,Noise levels in Central exceeded 30 dB for 3 consecutive hours. Investigate source.,False,False
+2025-10-20 08:38,Eastfield,noise,medium,Noise levels in Eastfield exceeded 50 dB for 3 consecutive hours. Investigate source.,True,False
+2025-10-20 09:08,Central,energy,high,EV charging demand in Central surged 71% above baseline. Recommend load balancing.,False,True
+2025-10-21 15:11,Greenpark,energy,high,EV charging demand in Greenpark surged 34% above baseline. Recommend load balancing.,False,True
+2025-10-21 19:27,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 20%. Recommend dynamic pricing increase.,True,False
+2025-10-21 06:19,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 92°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-10-21 07:32,Greenpark,noise,medium,Noise levels in Greenpark exceeded 49 dB for 3 consecutive hours. Investigate source.,True,False
+2025-10-22 21:54,Central,traffic,low,Traffic flow anomaly in Central. Volume 63% above prediction. Signal timing adjusted automatically.,True,False
+2025-10-22 17:26,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 47 units offline. Maintenance crew dispatched.,False,False
+2025-10-24 09:06,Northgate,environment,critical,Air quality index in Northgate reached 46 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-10-25 16:26,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 22°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-10-25 11:38,Eastfield,waste,medium,Waste collection delay in Eastfield. 56 bins at capacity. Route optimisation triggered.,True,False
+2025-10-26 16:49,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 91% week-over-week. Sentiment trending negative.,False,True
+2025-10-26 12:02,Harbour,climate,medium,Temperature forecast: Harbour expecting 83°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-10-27 07:54,Greenpark,noise,medium,Noise levels in Greenpark exceeded 24 dB for 3 consecutive hours. Investigate source.,True,False
+2025-10-27 11:51,Riverside,environment,critical,Air quality index in Riverside reached 46 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-10-28 21:21,Greenpark,energy,high,EV charging demand in Greenpark surged 50% above baseline. Recommend load balancing.,False,True
+2025-10-28 08:52,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 46% above prediction. Signal timing adjusted automatically.,False,False
+2025-10-29 19:01,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 51% versus forecast. Investigate enforcement.,False,True
+2025-10-29 06:47,Eastfield,waste,medium,Waste collection delay in Eastfield. 89 bins at capacity. Route optimisation triggered.,True,False
+2025-10-30 12:30,Central,traffic,low,Traffic flow anomaly in Central. Volume 81% above prediction. Signal timing adjusted automatically.,False,False
+2025-10-31 10:09,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 27% above prediction. Signal timing adjusted automatically.,False,False
+2025-11-01 09:08,Greenpark,environment,critical,Air quality index in Greenpark reached 90 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-11-02 16:26,Northgate,energy,high,EV charging demand in Northgate surged 87% above baseline. Recommend load balancing.,False,True
+2025-11-03 08:45,Greenpark,waste,medium,Waste collection delay in Greenpark. 89 bins at capacity. Route optimisation triggered.,True,False
+2025-11-03 13:30,Riverside,noise,medium,Noise levels in Riverside exceeded 30 dB for 3 consecutive hours. Investigate source.,True,False
+2025-11-03 12:09,Central,environment,critical,Air quality index in Central reached 73 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-11-04 21:58,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 61°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-11-06 21:54,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 69% versus forecast. Investigate enforcement.,False,True
+2025-11-06 13:53,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 66% week-over-week. Sentiment trending negative.,False,True
+2025-11-08 11:26,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 43 units offline. Maintenance crew dispatched.,False,False
+2025-11-08 20:31,Central,citizen_services,high,Citizen complaint volume in Central up 37% week-over-week. Sentiment trending negative.,True,False
+2025-11-10 21:31,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 38% week-over-week. Sentiment trending negative.,False,True
+2025-11-10 06:16,Central,citizen_services,high,Citizen complaint volume in Central up 47% week-over-week. Sentiment trending negative.,False,True
+2025-11-11 09:06,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 21% versus forecast. Investigate enforcement.,False,True
+2025-11-11 12:10,Greenpark,environment,critical,Air quality index in Greenpark reached 16 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-11-12 10:54,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 37%. Recommend dynamic pricing increase.,False,True
+2025-11-12 15:56,Eastfield,environment,critical,Air quality index in Eastfield reached 24 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-11-13 17:03,Northgate,energy,high,EV charging demand in Northgate surged 73% above baseline. Recommend load balancing.,False,True
+2025-11-14 14:57,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 64% week-over-week. Sentiment trending negative.,False,True
+2025-11-15 16:35,Riverside,waste,medium,Waste collection delay in Riverside. 43 bins at capacity. Route optimisation triggered.,True,False
+2025-11-16 14:27,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 22 units offline. Maintenance crew dispatched.,True,False
+2025-11-17 10:50,Harbour,climate,medium,Temperature forecast: Harbour expecting 21°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-11-18 19:02,Northgate,climate,medium,Temperature forecast: Northgate expecting 30°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-11-19 17:07,Riverside,waste,medium,Waste collection delay in Riverside. 79 bins at capacity. Route optimisation triggered.,True,False
+2025-11-19 21:58,Eastfield,energy,high,EV charging demand in Eastfield surged 30% above baseline. Recommend load balancing.,True,False
+2025-11-19 15:05,Eastfield,waste,medium,Waste collection delay in Eastfield. 74 bins at capacity. Route optimisation triggered.,True,False
+2025-11-19 21:02,Harbour,environment,critical,Air quality index in Harbour reached 53 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-11-20 16:40,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 54% above prediction. Signal timing adjusted automatically.,True,False
+2025-11-20 18:54,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 16% above prediction. Signal timing adjusted automatically.,False,False
+2025-11-21 17:20,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 29% week-over-week. Sentiment trending negative.,True,False
+2025-11-21 10:46,Central,citizen_services,high,Citizen complaint volume in Central up 49% week-over-week. Sentiment trending negative.,True,False
+2025-11-21 11:00,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 43 units offline. Maintenance crew dispatched.,True,False
+2025-11-21 18:37,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 70%. Recommend dynamic pricing increase.,False,True
+2025-11-22 08:47,Greenpark,environment,critical,Air quality index in Greenpark reached 79 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-11-22 13:02,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 43% versus forecast. Investigate enforcement.,False,True
+2025-11-23 17:40,Northgate,waste,medium,Waste collection delay in Northgate. 24 bins at capacity. Route optimisation triggered.,False,False
+2025-11-23 12:38,Riverside,waste,medium,Waste collection delay in Riverside. 15 bins at capacity. Route optimisation triggered.,True,False
+2025-11-24 21:35,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 74 units offline. Maintenance crew dispatched.,True,False
+2025-11-24 18:32,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 61% above prediction. Signal timing adjusted automatically.,False,False
+2025-11-25 20:19,Harbour,climate,medium,Temperature forecast: Harbour expecting 57°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-11-25 13:54,Northgate,waste,medium,Waste collection delay in Northgate. 50 bins at capacity. Route optimisation triggered.,False,False
+2025-11-25 14:50,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 93% week-over-week. Sentiment trending negative.,False,True
+2025-11-26 19:36,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 60%. Recommend dynamic pricing increase.,True,False
+2025-11-29 13:41,Riverside,noise,medium,Noise levels in Riverside exceeded 80 dB for 3 consecutive hours. Investigate source.,False,False
+2025-11-29 10:19,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 86% above prediction. Signal timing adjusted automatically.,False,False
+2025-11-29 18:57,Harbour,citizen_services,high,Citizen complaint volume in Harbour up 25% week-over-week. Sentiment trending negative.,True,False
+2025-11-30 18:02,Northgate,energy,high,EV charging demand in Northgate surged 75% above baseline. Recommend load balancing.,True,False
+2025-11-30 18:03,Eastfield,environment,critical,Air quality index in Eastfield reached 31 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-12-01 17:54,Eastfield,energy,high,EV charging demand in Eastfield surged 30% above baseline. Recommend load balancing.,False,True
+2025-12-01 12:07,Greenpark,noise,medium,Noise levels in Greenpark exceeded 92 dB for 3 consecutive hours. Investigate source.,False,False
+2025-12-01 10:23,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 63°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-02 17:25,Eastfield,waste,medium,Waste collection delay in Eastfield. 69 bins at capacity. Route optimisation triggered.,True,False
+2025-12-04 09:14,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 42 units offline. Maintenance crew dispatched.,True,False
+2025-12-04 07:33,Northgate,waste,medium,Waste collection delay in Northgate. 17 bins at capacity. Route optimisation triggered.,True,False
+2025-12-04 18:27,Harbour,waste,medium,Waste collection delay in Harbour. 61 bins at capacity. Route optimisation triggered.,False,False
+2025-12-05 13:38,Eastfield,energy,high,EV charging demand in Eastfield surged 93% above baseline. Recommend load balancing.,False,True
+2025-12-05 20:18,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 29% week-over-week. Sentiment trending negative.,True,False
+2025-12-05 09:21,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 94% versus forecast. Investigate enforcement.,True,False
+2025-12-06 11:11,Central,environment,critical,Air quality index in Central reached 41 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-12-06 12:49,Central,parking,high,Parking demand spike detected in Central. Occupancy at 57%. Recommend dynamic pricing increase.,False,True
+2025-12-07 21:18,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 73% above prediction. Signal timing adjusted automatically.,True,False
+2025-12-07 16:48,Greenpark,waste,medium,Waste collection delay in Greenpark. 84 bins at capacity. Route optimisation triggered.,False,False
+2025-12-07 18:33,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 63% above prediction. Signal timing adjusted automatically.,False,False
+2025-12-07 10:45,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 76 units offline. Maintenance crew dispatched.,False,False
+2025-12-08 10:06,Riverside,waste,medium,Waste collection delay in Riverside. 85 bins at capacity. Route optimisation triggered.,False,False
+2025-12-08 09:46,Northgate,noise,medium,Noise levels in Northgate exceeded 19 dB for 3 consecutive hours. Investigate source.,False,False
+2025-12-09 14:44,Northgate,waste,medium,Waste collection delay in Northgate. 46 bins at capacity. Route optimisation triggered.,False,False
+2025-12-09 06:37,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 82 units offline. Maintenance crew dispatched.,True,False
+2025-12-09 08:17,Northgate,energy,high,EV charging demand in Northgate surged 29% above baseline. Recommend load balancing.,True,False
+2025-12-09 14:10,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 78% above prediction. Signal timing adjusted automatically.,False,False
+2025-12-10 13:03,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 83%. Recommend dynamic pricing increase.,True,False
+2025-12-10 06:20,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 64%. Recommend dynamic pricing increase.,False,True
+2025-12-10 06:31,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 79% above prediction. Signal timing adjusted automatically.,True,False
+2025-12-10 17:24,Northgate,energy,high,EV charging demand in Northgate surged 41% above baseline. Recommend load balancing.,False,True
+2025-12-11 15:58,Central,environment,critical,Air quality index in Central reached 86 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-12-11 09:05,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 40 units offline. Maintenance crew dispatched.,True,False
+2025-12-11 11:28,Harbour,waste,medium,Waste collection delay in Harbour. 39 bins at capacity. Route optimisation triggered.,True,False
+2025-12-12 16:19,Riverside,climate,medium,Temperature forecast: Riverside expecting 29°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-12 10:07,Riverside,climate,medium,Temperature forecast: Riverside expecting 49°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-13 11:13,Riverside,energy,high,EV charging demand in Riverside surged 31% above baseline. Recommend load balancing.,True,False
+2025-12-13 20:27,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 80 units offline. Maintenance crew dispatched.,True,False
+2025-12-14 17:27,Riverside,environment,critical,Air quality index in Riverside reached 81 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-12-14 19:30,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 81°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-15 15:25,Central,energy,high,EV charging demand in Central surged 86% above baseline. Recommend load balancing.,True,False
+2025-12-15 10:49,Greenpark,energy,high,EV charging demand in Greenpark surged 73% above baseline. Recommend load balancing.,True,False
+2025-12-15 14:49,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 47% above prediction. Signal timing adjusted automatically.,True,False
+2025-12-16 18:13,Harbour,energy,high,EV charging demand in Harbour surged 79% above baseline. Recommend load balancing.,False,True
+2025-12-17 10:25,Riverside,climate,medium,Temperature forecast: Riverside expecting 69°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-18 14:05,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 80 units offline. Maintenance crew dispatched.,True,False
+2025-12-19 11:03,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 42% versus forecast. Investigate enforcement.,False,True
+2025-12-19 13:53,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 66°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-12-19 13:23,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 51°C. Cooling centres recommended for vulnerable populations.,False,False
+2025-12-19 09:33,Greenpark,environment,critical,Air quality index in Greenpark reached 24 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-12-21 11:53,Harbour,climate,medium,Temperature forecast: Harbour expecting 85°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-21 17:25,Riverside,waste,medium,Waste collection delay in Riverside. 91 bins at capacity. Route optimisation triggered.,False,False
+2025-12-21 16:06,Central,finance,high,Revenue anomaly: Central parking revenue down 39% versus forecast. Investigate enforcement.,True,False
+2025-12-22 13:46,Riverside,energy,high,EV charging demand in Riverside surged 42% above baseline. Recommend load balancing.,False,True
+2025-12-23 10:16,Northgate,waste,medium,Waste collection delay in Northgate. 35 bins at capacity. Route optimisation triggered.,True,False
+2025-12-24 06:41,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 80% above prediction. Signal timing adjusted automatically.,True,False
+2025-12-24 09:29,Northgate,noise,medium,Noise levels in Northgate exceeded 43 dB for 3 consecutive hours. Investigate source.,False,False
+2025-12-25 17:24,Central,environment,critical,Air quality index in Central reached 78 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2025-12-25 15:21,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 43%. Recommend dynamic pricing increase.,True,False
+2025-12-25 21:27,Central,environment,critical,Air quality index in Central reached 23 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2025-12-26 07:32,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 84°C. Cooling centres recommended for vulnerable populations.,True,False
+2025-12-26 09:58,Eastfield,noise,medium,Noise levels in Eastfield exceeded 50 dB for 3 consecutive hours. Investigate source.,True,False
+2025-12-26 17:49,Harbour,noise,medium,Noise levels in Harbour exceeded 46 dB for 3 consecutive hours. Investigate source.,False,False
+2025-12-27 19:18,Northgate,waste,medium,Waste collection delay in Northgate. 64 bins at capacity. Route optimisation triggered.,False,False
+2025-12-27 10:34,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 22% above prediction. Signal timing adjusted automatically.,False,False
+2025-12-28 18:53,Central,finance,high,Revenue anomaly: Central parking revenue down 30% versus forecast. Investigate enforcement.,False,True
+2025-12-28 06:44,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 19% week-over-week. Sentiment trending negative.,False,True
+2025-12-29 15:51,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 51% above prediction. Signal timing adjusted automatically.,False,False
+2025-12-29 18:49,Riverside,energy,high,EV charging demand in Riverside surged 64% above baseline. Recommend load balancing.,False,True
+2025-12-30 10:20,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 61 units offline. Maintenance crew dispatched.,True,False
+2025-12-30 08:23,Greenpark,noise,medium,Noise levels in Greenpark exceeded 75 dB for 3 consecutive hours. Investigate source.,False,False
+2025-12-31 21:40,Eastfield,waste,medium,Waste collection delay in Eastfield. 82 bins at capacity. Route optimisation triggered.,True,False
+2025-12-31 11:12,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 61% above prediction. Signal timing adjusted automatically.,False,False
+2025-12-31 18:40,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 29% above prediction. Signal timing adjusted automatically.,False,False
+2026-01-01 14:46,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 46% versus forecast. Investigate enforcement.,True,False
+2026-01-01 21:53,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 55 units offline. Maintenance crew dispatched.,True,False
+2026-01-02 09:39,Riverside,environment,critical,Air quality index in Riverside reached 39 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-01-05 16:00,Northgate,noise,medium,Noise levels in Northgate exceeded 17 dB for 3 consecutive hours. Investigate source.,True,False
+2026-01-06 19:39,Central,traffic,low,Traffic flow anomaly in Central. Volume 89% above prediction. Signal timing adjusted automatically.,False,False
+2026-01-06 11:09,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 87 units offline. Maintenance crew dispatched.,True,False
+2026-01-07 12:08,Harbour,noise,medium,Noise levels in Harbour exceeded 57 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-07 19:15,Riverside,environment,critical,Air quality index in Riverside reached 66 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-01-08 20:39,Central,parking,high,Parking demand spike detected in Central. Occupancy at 22%. Recommend dynamic pricing increase.,False,True
+2026-01-09 10:16,Central,climate,medium,Temperature forecast: Central expecting 65°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-01-09 06:51,Central,parking,high,Parking demand spike detected in Central. Occupancy at 15%. Recommend dynamic pricing increase.,True,False
+2026-01-09 13:43,Central,climate,medium,Temperature forecast: Central expecting 85°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-01-10 19:58,Central,noise,medium,Noise levels in Central exceeded 68 dB for 3 consecutive hours. Investigate source.,True,False
+2026-01-10 18:32,Harbour,climate,medium,Temperature forecast: Harbour expecting 55°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-01-10 16:58,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 90% above prediction. Signal timing adjusted automatically.,False,False
+2026-01-10 12:16,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 63 units offline. Maintenance crew dispatched.,True,False
+2026-01-12 19:52,Eastfield,waste,medium,Waste collection delay in Eastfield. 92 bins at capacity. Route optimisation triggered.,True,False
+2026-01-12 11:48,Northgate,energy,high,EV charging demand in Northgate surged 35% above baseline. Recommend load balancing.,False,True
+2026-01-14 16:04,Greenpark,environment,critical,Air quality index in Greenpark reached 49 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-01-14 11:00,Harbour,waste,medium,Waste collection delay in Harbour. 46 bins at capacity. Route optimisation triggered.,True,False
+2026-01-14 17:17,Central,energy,high,EV charging demand in Central surged 38% above baseline. Recommend load balancing.,True,False
+2026-01-15 07:31,Central,noise,medium,Noise levels in Central exceeded 62 dB for 3 consecutive hours. Investigate source.,True,False
+2026-01-16 14:10,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 24% week-over-week. Sentiment trending negative.,False,True
+2026-01-16 16:30,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 44 units offline. Maintenance crew dispatched.,True,False
+2026-01-16 09:25,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 33 units offline. Maintenance crew dispatched.,False,False
+2026-01-16 07:24,Central,environment,critical,Air quality index in Central reached 91 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-01-17 16:52,Greenpark,waste,medium,Waste collection delay in Greenpark. 39 bins at capacity. Route optimisation triggered.,True,False
+2026-01-17 06:44,Harbour,noise,medium,Noise levels in Harbour exceeded 45 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-18 18:45,Harbour,waste,medium,Waste collection delay in Harbour. 49 bins at capacity. Route optimisation triggered.,False,False
+2026-01-18 09:02,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 80 units offline. Maintenance crew dispatched.,True,False
+2026-01-20 10:01,Greenpark,energy,high,EV charging demand in Greenpark surged 65% above baseline. Recommend load balancing.,True,False
+2026-01-20 16:23,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 83% above prediction. Signal timing adjusted automatically.,True,False
+2026-01-21 16:22,Central,finance,high,Revenue anomaly: Central parking revenue down 91% versus forecast. Investigate enforcement.,False,True
+2026-01-21 16:05,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 88% week-over-week. Sentiment trending negative.,True,False
+2026-01-21 09:34,Central,noise,medium,Noise levels in Central exceeded 65 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-22 12:19,Eastfield,waste,medium,Waste collection delay in Eastfield. 48 bins at capacity. Route optimisation triggered.,False,False
+2026-01-23 17:52,Northgate,climate,medium,Temperature forecast: Northgate expecting 87°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-01-23 10:31,Riverside,noise,medium,Noise levels in Riverside exceeded 61 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-23 11:20,Riverside,environment,critical,Air quality index in Riverside reached 92 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-01-24 21:07,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 56%. Recommend dynamic pricing increase.,True,False
+2026-01-24 10:45,Harbour,energy,high,EV charging demand in Harbour surged 64% above baseline. Recommend load balancing.,True,False
+2026-01-25 08:29,Central,traffic,low,Traffic flow anomaly in Central. Volume 88% above prediction. Signal timing adjusted automatically.,True,False
+2026-01-26 10:44,Central,climate,medium,Temperature forecast: Central expecting 31°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-01-27 19:56,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 33% above prediction. Signal timing adjusted automatically.,True,False
+2026-01-27 06:14,Eastfield,noise,medium,Noise levels in Eastfield exceeded 23 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-28 10:50,Greenpark,noise,medium,Noise levels in Greenpark exceeded 31 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-28 15:35,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 36% versus forecast. Investigate enforcement.,False,True
+2026-01-29 16:47,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 87 units offline. Maintenance crew dispatched.,True,False
+2026-01-29 17:46,Greenpark,noise,medium,Noise levels in Greenpark exceeded 89 dB for 3 consecutive hours. Investigate source.,False,False
+2026-01-29 20:08,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 89% above prediction. Signal timing adjusted automatically.,True,False
+2026-01-30 19:21,Eastfield,environment,critical,Air quality index in Eastfield reached 81 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-01-30 21:31,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 26%. Recommend dynamic pricing increase.,True,False
+2026-01-31 19:07,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 17 units offline. Maintenance crew dispatched.,True,False
+2026-01-31 10:22,Northgate,environment,critical,Air quality index in Northgate reached 20 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-01-31 14:08,Central,finance,high,Revenue anomaly: Central parking revenue down 67% versus forecast. Investigate enforcement.,False,True
+2026-01-31 17:05,Greenpark,finance,high,Revenue anomaly: Greenpark parking revenue down 86% versus forecast. Investigate enforcement.,True,False
+2026-02-01 09:08,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 85% week-over-week. Sentiment trending negative.,True,False
+2026-02-01 09:43,Riverside,climate,medium,Temperature forecast: Riverside expecting 31°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-02-02 13:11,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 93% week-over-week. Sentiment trending negative.,True,False
+2026-02-03 17:44,Northgate,noise,medium,Noise levels in Northgate exceeded 55 dB for 3 consecutive hours. Investigate source.,False,False
+2026-02-04 10:05,Harbour,climate,medium,Temperature forecast: Harbour expecting 50°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-02-04 09:29,Harbour,environment,critical,Air quality index in Harbour reached 27 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-02-04 09:05,Harbour,climate,medium,Temperature forecast: Harbour expecting 53°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-02-04 19:05,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 44%. Recommend dynamic pricing increase.,False,True
+2026-02-06 20:17,Harbour,environment,critical,Air quality index in Harbour reached 35 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-02-06 14:49,Northgate,finance,high,Revenue anomaly: Northgate parking revenue down 79% versus forecast. Investigate enforcement.,True,False
+2026-02-07 19:46,Central,climate,medium,Temperature forecast: Central expecting 43°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-02-07 21:51,Greenpark,noise,medium,Noise levels in Greenpark exceeded 82 dB for 3 consecutive hours. Investigate source.,True,False
+2026-02-07 12:24,Eastfield,infrastructure,medium,Streetlight outage cluster detected in Eastfield. 66 units offline. Maintenance crew dispatched.,False,False
+2026-02-07 17:01,Harbour,finance,high,Revenue anomaly: Harbour parking revenue down 62% versus forecast. Investigate enforcement.,True,False
+2026-02-08 14:58,Eastfield,climate,medium,Temperature forecast: Eastfield expecting 33°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-02-09 17:31,Northgate,noise,medium,Noise levels in Northgate exceeded 25 dB for 3 consecutive hours. Investigate source.,True,False
+2026-02-09 17:53,Greenpark,environment,critical,Air quality index in Greenpark reached 54 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-02-09 17:38,Riverside,noise,medium,Noise levels in Riverside exceeded 60 dB for 3 consecutive hours. Investigate source.,True,False
+2026-02-10 08:01,Northgate,waste,medium,Waste collection delay in Northgate. 87 bins at capacity. Route optimisation triggered.,False,False
+2026-02-10 15:47,Northgate,parking,high,Parking demand spike detected in Northgate. Occupancy at 15%. Recommend dynamic pricing increase.,True,False
+2026-02-11 09:18,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 30% above prediction. Signal timing adjusted automatically.,True,False
+2026-02-11 06:01,Central,environment,critical,Air quality index in Central reached 40 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-02-12 11:58,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 73% week-over-week. Sentiment trending negative.,True,False
+2026-02-12 09:11,Northgate,energy,high,EV charging demand in Northgate surged 42% above baseline. Recommend load balancing.,True,False
+2026-02-13 06:26,Riverside,waste,medium,Waste collection delay in Riverside. 71 bins at capacity. Route optimisation triggered.,True,False
+2026-02-13 16:08,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 82%. Recommend dynamic pricing increase.,True,False
+2026-02-13 07:52,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 86% week-over-week. Sentiment trending negative.,True,False
+2026-02-14 20:49,Eastfield,parking,high,Parking demand spike detected in Eastfield. Occupancy at 47%. Recommend dynamic pricing increase.,True,False
+2026-02-14 06:07,Northgate,environment,critical,Air quality index in Northgate reached 20 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-02-15 18:31,Riverside,energy,high,EV charging demand in Riverside surged 55% above baseline. Recommend load balancing.,True,False
+2026-02-16 09:31,Harbour,energy,high,EV charging demand in Harbour surged 65% above baseline. Recommend load balancing.,True,False
+2026-02-17 07:04,Riverside,energy,high,EV charging demand in Riverside surged 39% above baseline. Recommend load balancing.,False,True
+2026-02-18 16:26,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 66 units offline. Maintenance crew dispatched.,True,False
+2026-02-20 12:55,Eastfield,citizen_services,high,Citizen complaint volume in Eastfield up 54% week-over-week. Sentiment trending negative.,True,False
+2026-02-20 09:54,Greenpark,waste,medium,Waste collection delay in Greenpark. 65 bins at capacity. Route optimisation triggered.,False,False
+2026-02-21 18:16,Central,environment,critical,Air quality index in Central reached 81 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-02-22 17:05,Northgate,environment,critical,Air quality index in Northgate reached 36 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-02-23 06:21,Eastfield,traffic,low,Traffic flow anomaly in Eastfield. Volume 21% above prediction. Signal timing adjusted automatically.,True,False
+2026-02-24 15:06,Greenpark,noise,medium,Noise levels in Greenpark exceeded 31 dB for 3 consecutive hours. Investigate source.,False,False
+2026-02-24 06:35,Northgate,noise,medium,Noise levels in Northgate exceeded 61 dB for 3 consecutive hours. Investigate source.,False,False
+2026-02-26 08:18,Northgate,energy,high,EV charging demand in Northgate surged 16% above baseline. Recommend load balancing.,True,False
+2026-03-01 09:39,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 43 units offline. Maintenance crew dispatched.,False,False
+2026-03-02 06:34,Central,citizen_services,high,Citizen complaint volume in Central up 32% week-over-week. Sentiment trending negative.,True,False
+2026-03-02 14:57,Riverside,noise,medium,Noise levels in Riverside exceeded 44 dB for 3 consecutive hours. Investigate source.,False,False
+2026-03-02 10:15,Central,traffic,low,Traffic flow anomaly in Central. Volume 73% above prediction. Signal timing adjusted automatically.,True,False
+2026-03-02 09:47,Northgate,environment,critical,Air quality index in Northgate reached 24 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-03-04 12:58,Riverside,environment,critical,Air quality index in Riverside reached 53 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-03-05 07:05,Harbour,noise,medium,Noise levels in Harbour exceeded 94 dB for 3 consecutive hours. Investigate source.,False,False
+2026-03-06 07:40,Eastfield,waste,medium,Waste collection delay in Eastfield. 26 bins at capacity. Route optimisation triggered.,True,False
+2026-03-06 06:45,Riverside,waste,medium,Waste collection delay in Riverside. 63 bins at capacity. Route optimisation triggered.,True,False
+2026-03-08 21:10,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 49°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-03-08 11:17,Northgate,climate,medium,Temperature forecast: Northgate expecting 87°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-03-09 12:07,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 55 units offline. Maintenance crew dispatched.,True,False
+2026-03-09 17:18,Northgate,waste,medium,Waste collection delay in Northgate. 49 bins at capacity. Route optimisation triggered.,True,False
+2026-03-10 12:42,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 54% versus forecast. Investigate enforcement.,True,False
+2026-03-10 13:46,Greenpark,infrastructure,medium,Streetlight outage cluster detected in Greenpark. 28 units offline. Maintenance crew dispatched.,True,False
+2026-03-12 14:40,Harbour,waste,medium,Waste collection delay in Harbour. 35 bins at capacity. Route optimisation triggered.,True,False
+2026-03-12 06:45,Harbour,parking,high,Parking demand spike detected in Harbour. Occupancy at 36%. Recommend dynamic pricing increase.,True,False
+2026-03-13 11:52,Northgate,energy,high,EV charging demand in Northgate surged 59% above baseline. Recommend load balancing.,True,False
+2026-03-13 17:28,Northgate,waste,medium,Waste collection delay in Northgate. 42 bins at capacity. Route optimisation triggered.,False,False
+2026-03-14 14:19,Northgate,noise,medium,Noise levels in Northgate exceeded 59 dB for 3 consecutive hours. Investigate source.,False,False
+2026-03-15 17:30,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 21% week-over-week. Sentiment trending negative.,False,True
+2026-03-15 08:45,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 89°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-03-16 08:32,Riverside,environment,critical,Air quality index in Riverside reached 37 AQI. Threshold exceeded. Recommend citizen advisory.,True,False
+2026-03-17 12:56,Northgate,climate,medium,Temperature forecast: Northgate expecting 75°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-03-17 15:02,Riverside,waste,medium,Waste collection delay in Riverside. 33 bins at capacity. Route optimisation triggered.,True,False
+2026-03-19 09:01,Central,finance,high,Revenue anomaly: Central parking revenue down 56% versus forecast. Investigate enforcement.,True,False
+2026-03-20 12:02,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 92% versus forecast. Investigate enforcement.,True,False
+2026-03-20 10:55,Greenpark,energy,high,EV charging demand in Greenpark surged 92% above baseline. Recommend load balancing.,True,False
+2026-03-22 08:58,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 77°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-03-22 15:18,Northgate,infrastructure,medium,Streetlight outage cluster detected in Northgate. 35 units offline. Maintenance crew dispatched.,True,False
+2026-03-22 15:43,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 61% versus forecast. Investigate enforcement.,False,True
+2026-03-23 18:06,Greenpark,parking,high,Parking demand spike detected in Greenpark. Occupancy at 29%. Recommend dynamic pricing increase.,False,True
+2026-03-23 10:24,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 32°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-03-23 08:21,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 79% versus forecast. Investigate enforcement.,False,True
+2026-03-24 16:52,Greenpark,waste,medium,Waste collection delay in Greenpark. 52 bins at capacity. Route optimisation triggered.,True,False
+2026-03-24 20:21,Central,infrastructure,medium,Streetlight outage cluster detected in Central. 21 units offline. Maintenance crew dispatched.,True,False
+2026-03-25 06:07,Riverside,waste,medium,Waste collection delay in Riverside. 27 bins at capacity. Route optimisation triggered.,True,False
+2026-03-25 12:32,Riverside,parking,high,Parking demand spike detected in Riverside. Occupancy at 34%. Recommend dynamic pricing increase.,False,True
+2026-03-25 20:35,Northgate,citizen_services,high,Citizen complaint volume in Northgate up 70% week-over-week. Sentiment trending negative.,True,False
+2026-03-26 10:40,Eastfield,finance,high,Revenue anomaly: Eastfield parking revenue down 42% versus forecast. Investigate enforcement.,True,False
+2026-03-26 18:47,Eastfield,waste,medium,Waste collection delay in Eastfield. 24 bins at capacity. Route optimisation triggered.,True,False
+2026-03-26 15:06,Riverside,noise,medium,Noise levels in Riverside exceeded 39 dB for 3 consecutive hours. Investigate source.,False,False
+2026-03-26 16:02,Harbour,traffic,low,Traffic flow anomaly in Harbour. Volume 20% above prediction. Signal timing adjusted automatically.,True,False
+2026-03-27 21:31,Harbour,waste,medium,Waste collection delay in Harbour. 80 bins at capacity. Route optimisation triggered.,True,False
+2026-03-27 13:24,Central,traffic,low,Traffic flow anomaly in Central. Volume 61% above prediction. Signal timing adjusted automatically.,True,False
+2026-03-27 09:01,Harbour,infrastructure,medium,Streetlight outage cluster detected in Harbour. 58 units offline. Maintenance crew dispatched.,True,False
+2026-03-28 07:56,Riverside,infrastructure,medium,Streetlight outage cluster detected in Riverside. 22 units offline. Maintenance crew dispatched.,True,False
+2026-03-28 11:16,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 29°C. Cooling centres recommended for vulnerable populations.,False,False
+2026-03-28 14:49,Harbour,environment,critical,Air quality index in Harbour reached 94 AQI. Threshold exceeded. Recommend citizen advisory.,False,True
+2026-03-28 18:01,Greenpark,climate,medium,Temperature forecast: Greenpark expecting 79°C. Cooling centres recommended for vulnerable populations.,True,False
+2026-03-29 12:52,Riverside,noise,medium,Noise levels in Riverside exceeded 73 dB for 3 consecutive hours. Investigate source.,False,False
+2026-03-29 15:32,Greenpark,traffic,low,Traffic flow anomaly in Greenpark. Volume 51% above prediction. Signal timing adjusted automatically.,False,False
+2026-03-29 14:08,Riverside,finance,high,Revenue anomaly: Riverside parking revenue down 17% versus forecast. Investigate enforcement.,True,False
+2026-03-30 12:32,Riverside,citizen_services,high,Citizen complaint volume in Riverside up 81% week-over-week. Sentiment trending negative.,True,False
+2026-03-30 21:38,Northgate,traffic,low,Traffic flow anomaly in Northgate. Volume 57% above prediction. Signal timing adjusted automatically.,True,False
+2026-03-30 15:56,Greenpark,citizen_services,high,Citizen complaint volume in Greenpark up 82% week-over-week. Sentiment trending negative.,False,True
+2026-03-30 20:09,Eastfield,waste,medium,Waste collection delay in Eastfield. 70 bins at capacity. Route optimisation triggered.,True,False
